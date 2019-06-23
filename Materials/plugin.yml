@@ -1,0 +1,43 @@
+name: Materials
+main: cn.xiaokai.materials.Materials
+api:
+- 1.0.0
+version: 1.1.0
+load: POSTWORLD
+website: http://EpicFX.cn
+description: 超级无敌宇宙炸天日地级别的红包插件
+author: EpicFX
+loadbefore:
+- EconomyAPI
+commands:
+   红包:
+      description: §7红包插件§9主命令
+      usage: §b/§6红包 §chelp
+      permission: Materials.Command.Main
+      aliases:
+      - hb
+permissions:
+   Materials.Command.Main:
+      description: 红包插件主命令
+      default: true
+EpicFX:
+   github: https://github.com/xkmp
+   member:
+   - Winfxk
+   - Anders233
+   exploit:
+      major: Winfxk
+      minor: Anders233
+   intro:
+      Winfxk:
+         QQ: 2508543202
+         Email:
+         - Winfxk@QQ.com
+         - Winfxk@gmail.com
+         - Winfxk@163.com
+         github: https://github.com/WinfXK
+      Anders233:
+         QQ: 2641541097
+         Email:
+         - 2641541097@QQ.com
+         github: https://github.com/Anders233
